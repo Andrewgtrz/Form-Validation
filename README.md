@@ -1,7 +1,7 @@
 # Form-Validation
 A form with client side validation and front-end functionality
 
-[Link to Form](https://andrewgtrz.github.io/Form-Validation/)
+# [Link to Form](https://andrewgtrz.github.io/Form-Validation/)
 
 ## Objective
 Create a form that validates form inputs and provides UI feedback for user
